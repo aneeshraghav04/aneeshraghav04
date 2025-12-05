@@ -6,7 +6,7 @@ Data Science and Artificial Intelligence Enthusiast
 
 I'm passionate about Data Science and Artificial Intelligence, with experience working on projects that span financial fraud detection, SAR-to-optical image translation using deep learning, quantitative finance research, and RNA image analysis. I enjoy building complete AI systems end-to-end, combining analytical rigor with creativity, and simplifying complex ideas through clear, intuitive reasoning.
 
-I’ve worked with multi-million-row financial datasets, explored quant topics like derivatives pricing, hedging and risk metrics and applied model-based understanding to interpret combustion and sensor data. Alongside technical work, I’m also interested in educational content creation and making advanced ML, deep learning, and mathematics more accessible.
+I’ve worked with multi-million-row financial datasets, explored quant topics like derivatives pricing, hedging and risk metrics and applied model-based understanding to interpret sensor data. Alongside technical work, I’m also interested in educational content creation and making advanced ML, deep learning, and mathematics more accessible.
 
 I’m constantly exploring applications of machine learning across finance, astrophysics and biomedical imaging, and I look forward to collaborating on impactful research-oriented projects, internships, and problem statements in AI and Data Science.
 
